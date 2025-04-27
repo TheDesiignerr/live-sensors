@@ -12,6 +12,12 @@ It allows you to easily view your hardware sensors in real-time with a customiza
 
 ---
 
+## 📷 Screenshots
+<img src="https://files.catbox.moe/9980zt.png">
+<img src="https://files.catbox.moe/9980zt.png">
+
+---
+
 ## 🚀 Features
 
 - 🔥 Live detection of temperatures and sensors
